@@ -28,7 +28,7 @@
   },
   "description": "Group Project",
   "main": "server.js",
-  "author": "Group Members, modified Tom Tsiliopoulos code",
+  "author": "Group Members, modified Tom's Tsiliopoulos code",
   "license": "ISC",
   "devDependencies": {
     "@types/body-parser": "^1.17.0",
